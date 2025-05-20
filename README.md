@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesús Muñoz-Cádiz (@jmc-96)
-- 👀 I’m interested in point cloud analysis, HBIM, and machine learning applications for cultural heritage
+- 👀 I’m interested in point cloud analysis, HBIM, ontologies, and machine learning applications for cultural heritage
 - 📫 How to reach me at the following email: [j.munoz@pm.univpm.it](mailto:j.munoz@pm.univpm.it)
 
 <!---
