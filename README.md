@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesús Muñoz-Cádiz (@jmc-96)
-- 👀 My research focuses on the Bulding Information Modeling (BIM)methodology, ontologies, and machine learning applications for cultural heritage
+- 👀 My research focuses on the Bulding Information Modeling (BIM) methodology, ontologies, and machine learning applications for cultural heritage
 - 📫 How to reach me at the following email: [jesus.munozcadiz@unifr.ch](mailto:jesus.munozcadiz@unifr.ch)
 - 🧊 I have experience with point clouds analysis 3D reconstruction
 
